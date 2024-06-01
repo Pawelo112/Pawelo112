@@ -23,7 +23,7 @@
 </a>
 
 <br>
-<h2 align="left">⭐My newest latest finished projects: </h2>
+<h2 align="left">⭐My latest finished projects: </h2>
 
 + 🎮[**Pong**](https://github.com/Pawelo112/Pong) - Pong game made in Python.
 + 🐍[**Snake**](https://github.com/Pawelo112/Simple-snake-game-in-Python) - Simple snake game made in Python
