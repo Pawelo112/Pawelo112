@@ -22,11 +22,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" style="position: absolute; left: 60px; top: 120px;"  />
 </a>
 
-  
+<br>
+<h2 align="left">⭐My newest latest finished projects: </h2>
 
++ 🎮[**Pong**](https://github.com/Pawelo112/Pong) - Pong game made in Python.
++ 🐍[**Snake**](https://github.com/Pawelo112/Simple-snake-game-in-Python) - Simple snake game made in Python
 
 ###
-
+<br>
 <h2 align="left">🛠 Language and tools that i use:</h2>
 
 ###
