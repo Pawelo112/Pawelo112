@@ -3,9 +3,10 @@
 </p></h1>
 
 
+
 ###
 
-<h2 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -26,7 +27,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools that i use:</h3>
+<h2 align="left">🛠 Language and tools that i use:</h2>
 
 ###
 
@@ -58,7 +59,7 @@
 
 ###
 
-<h2 align="left">💻 IDEs that i use:</h3>
+<h2 align="left">💻 IDEs that i use:</h2>
 
 ###
 
@@ -72,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
