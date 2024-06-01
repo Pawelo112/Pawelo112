@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools that i use:</h3>
+<h2 align="left">🛠 Language and tools that i use:</h3>
 
 ###
 
@@ -52,11 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="70" alt="jupyter logo"  />
+  <img width="12" />
+  <img src ="https://github.com/Pawelo112/Pawelo112/assets/121107616/b12826be-15dc-479f-b9e3-989832d45d27" height="60" alt="kdenlive logo" />
 </div>
 
 ###
 
-<h3 align="left">💻 IDEs that i use:</h3>
+<h2 align="left">💻 IDEs that i use:</h3>
 
 ###
 
