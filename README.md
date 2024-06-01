@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi! I'm Paweł, applied Computer Science Student from Poland. I am most interested in Data Science, data analysis, creating new models and I love the Python language. <br><br>In my free time, I love playing the guitar, playing various computer games and reading comics. As a hobby, I also create and edit funny moments videos from my gaming adventure for my YT channel.<br></p>
+<p align="left">Hi! I'm Paweł, applied Computer Science Student from Poland. I am most interested in Data Science, data analysis, creating new models and I love the Python language. <br><br>In my free time, I love playing the guitar, playing various video games and reading comics. As a hobby, I also create and edit funny moments videos from my gaming adventure for my YT channel.<br></p>
 
 ###
 
