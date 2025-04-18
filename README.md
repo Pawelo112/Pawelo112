@@ -25,9 +25,11 @@
 <br>
 <h3 align="left">⭐My latest finished projects: </h3>
 
-+ 🎮[**Pong**](https://github.com/Pawelo112/Pong) - Pong game made in Python.
-+ 🐍[**Snake**](https://github.com/Pawelo112/Simple-snake-game-in-Python) - Simple snake game made in Python.
++ 🎲[**D6Net**](https://github.com/Pawelo112/D6Net) - Data Science project about detecting and classifying D6 dice images using Deep Learning techniques.
 + 🍅[**Pomodoro technique**](https://github.com/Pawelo112/Pomodoro_GUI_App) - Pomodoro technique, time management app.
++ 🎮[**Pong**](https://github.com/Pawelo112/Pong) - Pong game.
++ 🐍[**Snake**](https://github.com/Pawelo112/Simple-snake-game-in-Python) - Simple snake game.
+
 
 ###
 <br>
