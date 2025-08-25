@@ -25,6 +25,7 @@
 <br>
 <h3 align="left">⭐My latest finished projects: </h3>
 
++ 📑[**Flashy Flashcards**](https://github.com/Pawelo112/flashy-flashcards) - Interactive flashcard app made with Tkinter — learn any language or subject you like. 
 + 🚗[**Car Price Estimator**](https://github.com/Pawelo112/car-price-estimator) - Data Science project with complete pipeline for predicting used car prices (includes Flask server app). 
 + 🎲[**D6Net**](https://github.com/Pawelo112/D6Net) - Data Science project about detecting and classifying D6 dice images using Deep Learning techniques.
 + 🍅[**Pomodoro technique**](https://github.com/Pawelo112/Pomodoro_GUI_App) - Pomodoro technique, time management app.
