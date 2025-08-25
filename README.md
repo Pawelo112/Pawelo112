@@ -32,7 +32,6 @@
 + 🎮[**Pong**](https://github.com/Pawelo112/Pong) - Pong game.
 + 🐍[**Snake**](https://github.com/Pawelo112/Simple-snake-game-in-Python) - Simple snake game.
 
-
 ###
 <br>
 <h3 align="left">🛠 Language and tools that i use:</h3>
