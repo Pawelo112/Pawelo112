@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">💻 IDEs that i use:</h3>
+<h3 align="left">💻 IDEs that I use:</h3>
 
 ###
 
