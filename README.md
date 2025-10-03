@@ -10,16 +10,13 @@
 
 ###
 
-<p align="left">Hi! I'm Paweł, applied Computer Science Student from Poland. I am most interested in Data Science, data analysis, creating new models and I love the Python language. <br><br>In my free time, I love playing the guitar, playing various video games and reading comics. As a hobby, I also create and edit funny moments videos from my gaming adventure for my YT channel.<br></p>
+<p align="left">Hi! I'm Paweł, applied Computer Science Student from Poland. I am most interested in Data Science, data analysis, creating new machine learning models and applying them to practical applications. <br><br>In my free time, I love playing the guitar, various video games and reading various books and comics. As a hobby, I also like to create and edit videos.<br></p>
 
 ###
 
 + 💬**Programming languages**: My favorite programming languages are **C➕➕** and **Python 🐍**
-+ 📚**Learning**: I'm currently learning lots of new technologies 👨‍💻
++ 📚**Learning**: I'm currently learning lots of new technologies in Data Science field. 👨‍💻
 + 🕑**Free time**: In my free time I love playing the guitar 🎸, video games 🎮 and reading comics📙.
-+ 🎮 **Favorite video game**: My favorite video game (as you can see from my profile picture) is Red Dead Redemption 2🤠.
-+ 🎥**Hobby**: As a hobby I create and edit funny moments videos on my YouTube channel: <a href="https://www.youtube.com/@pawelo112" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" style="position: absolute; left: 60px; top: 120px;"  />
 </a>
 
 <br>
