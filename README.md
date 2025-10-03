@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋<br>I'm <br> <p align="center">
- <img src= "https://github.com/Pawelo112/Pawelo112/assets/121107616/e702a16a-293e-4791-9263-c43409198ec7"/> 
+<img width="1013" height="111" alt="Cool Text - Pawe Marcinkowski 492711951886330" src="https://github.com/user-attachments/assets/2a8c9daa-6cd2-4a81-ab48-6e5da594a5ad" />
 </p></h1>
 
 
